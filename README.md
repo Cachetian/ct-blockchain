@@ -2,6 +2,7 @@
 
 https://rubygarage.org/blog/how-blockchain-works
 https://zhuanlan.zhihu.com/p/97212450
+https://www.zhihu.com/question/31112808
 
 wallet can be created offline by offline rule,
 
